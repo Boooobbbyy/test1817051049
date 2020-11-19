@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
-    <title>Porject Toge</title>
+    <title>Genshin Weebs</title>
   </head>
   <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -38,9 +38,9 @@
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container text-center">
-  <img src="https://www.wearemania.net/wp-content/uploads/2020/01/20200113_Pandi-Lestaluhu-Bisa-Jadi-Solusi-Minimnya-Sayap-Pengumpan-di-Arema.jpg" width="500">
-    <h1 class="display-4">Yuan Ferdinand </h1>
-    <p class="lead">Ini Project Toge</p>
+  <img src="https://www.gensh.in/wallpaper/genshin/genshin_12_4K.jpg" width="500">
+    <h1 class="display-4">Bobby Malela Hutagalung </h1>
+    <p class="lead">Just your regular daily weeb</p>
   </div>
 </div>
 
