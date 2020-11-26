@@ -10,26 +10,38 @@ class Auth extends BaseController
 				'username' => 'required',
 				'password' => 'required'
 			];
-
 			$validate = $this->validate($rules);
 			if ($validate) {
+
 				return view('auth/index');
 			} else {
 				return redirect()->back()->withInput()->with('validation', $this->validator);
 			}
 		}
+
 		return view('auth/login');
 	}
-
-
+	
 	public function register(){
 		return view('auth/register');
 	}
 
+
 	public function index(){
-		return view('auth/index');
+return view('auth/index');
 	}
 
+		public function admin(){
+			return view('auth/admin');
+			}
+
+	public function about(){
+		return view('auth/about');
+	}
+
+		public function isi(){
+		return view('auth/isi');
+	}
 	//--------------------------------------------------------------------
 
 }
